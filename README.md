@@ -37,6 +37,61 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 120 Contributions in the Year 2022
+ > 
+> 📦 727.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 113 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Python                   10 hrs 59 mins      ███████████░░░░░░░░░░░░░░   43.62% 
+CSV                      2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Other                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Docker                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Text                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
+
+🔥 Editors: 
+VS Code                  25 hrs 11 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+keysmashzappies          19 hrs 38 mins      ███████████████████░░░░░░   77.93% 
+ply                      5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   22.07%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   14 repos            ███████████░░░░░░░░░░░░░░   46.67% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/LakesideMiners/LakesideMiners/master/charts/bar_graph.png) 
+
+
+ Last Updated on 19/07/2022 19:56:39 UTC
 <!--END_SECTION:waka-->
 
 
