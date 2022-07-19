@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/LakesideMiners/LakesideMiners/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LakesideMiners/LakesideMiners/output/github-contribution-grid-snake-dark.svg" align="center"/>
 
 ###
