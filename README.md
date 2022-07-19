@@ -33,7 +33,7 @@
 
 ###
 <details>
- <summary><b>Wakatime Stats</b></summary>
+ <summary><b>Various Stats</b></summary>
 
 
 <!--START_SECTION:waka-->
