@@ -91,8 +91,11 @@ C++                      2 repos             █░░░░░░░░░░�
 </details>
 <details>
   <summary><b>Various Useful Sites</b></summary>
+  
   [Grep.App](https://grep.app/) - Bulk serach git repos, regex support.
+  
   [Oh Shit Git!](https://ohshitgit.com/) - For when Git makes you go "Oh Shit!"
+  
 </details>
   
 <br clear="both">
