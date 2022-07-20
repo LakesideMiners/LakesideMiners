@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LakesideMiners" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LakesideMiners" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/23389169?v=4.png"  />
 
 ###
@@ -96,6 +89,12 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 </details>
+<details>
+  <summary><b>Various Useful Sites</b></summary>
+  [Grep.App](https://grep.app/) - Bulk serach git repos, regex support.
+  [Oh Shit Git!](https://ohshitgit.com/) - For when Git makes you go "Oh Shit!"
+</details>
+  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LakesideMiners/LakesideMiners/output/github-contribution-grid-snake-dark.svg" align="center"/>
