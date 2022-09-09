@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **This Week I Spent My Time On** 
 
@@ -40,19 +40,13 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-HTML                     2 hrs 30 mins       ██████████████░░░░░░░░░░░   57.18% 
-CSS                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+No Activity Tracked This Week
 
 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 Projects: 
-minshock                 3 hrs 47 mins       █████████████████████░░░░   86.27% 
-alpine                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-MIDIZap                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+No Activity Tracked This Week
 
 ```
 
@@ -69,7 +63,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2022 18:48:25 UTC
+ Last Updated on 09/09/2022 18:48:57 UTC
 <!--END_SECTION:waka-->
 
 
