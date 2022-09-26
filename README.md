@@ -54,16 +54,16 @@ No Activity Tracked This Week
 
 ```text
 Python                   15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 ```
 
 
 
- Last Updated on 25/09/2022 18:47:10 UTC
+ Last Updated on 26/09/2022 18:51:47 UTC
 <!--END_SECTION:waka-->
 
 
