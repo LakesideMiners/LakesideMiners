@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **This Week I Spent My Time On** 
 
@@ -53,17 +53,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+Python                   15 repos            ███████████░░░░░░░░░░░░░░   44.12% 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
 
 ```
 
 
 
- Last Updated on 01/10/2022 18:48:56 UTC
+ Last Updated on 02/10/2022 18:49:15 UTC
 <!--END_SECTION:waka-->
 
 
