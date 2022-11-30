@@ -40,13 +40,13 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-Vue.js                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 Projects: 
-PiShockWeb               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -63,7 +63,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 18:39:25 UTC
+ Last Updated on 30/11/2022 18:41:16 UTC
 <!--END_SECTION:waka-->
 
 
