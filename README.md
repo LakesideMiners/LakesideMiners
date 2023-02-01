@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **This Week I Spent My Time On** 
 
@@ -63,7 +63,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2023 18:36:54 UTC
+ Last Updated on 01/02/2023 18:37:23 UTC
 <!--END_SECTION:waka-->
 
 
