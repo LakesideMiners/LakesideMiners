@@ -40,34 +40,33 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-Vue.js                   1 hr 50 mins        █████████████████████░░░░   86.18% 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+Vue.js                   1 hr 9 mins         ████████████████████░░░░░   82.75% 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 Projects: 
-PiShockWeb               2 hrs 7 mins        █████████████████████████   100.0%
+PiShockWeb               1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   44.74% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   43.59% 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
 
 ```
 
 
 
- Last Updated on 20/02/2023 18:38:04 UTC
+ Last Updated on 21/02/2023 18:38:20 UTC
 <!--END_SECTION:waka-->
 
 
