@@ -30,7 +30,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -67,7 +67,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2023 18:32:58 UTC
+ Last Updated on 14/05/2023 18:33:01 UTC
 <!--END_SECTION:waka-->
 
 
