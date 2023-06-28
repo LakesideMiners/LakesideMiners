@@ -40,31 +40,30 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-Vue.js                   12 mins             █████████████████████░░░░   87.35% 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+No Activity Tracked This Week
 
 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 Projects: 
-PiShockWeb               13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ██████████░░░░░░░░░░░░░░░   40.48% 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-GLSL                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Python                   18 repos            ██████████░░░░░░░░░░░░░░░   41.86% 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+GLSL                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 ```
 
 
 
- Last Updated on 27/06/2023 18:38:05 UTC
+ Last Updated on 28/06/2023 18:37:25 UTC
 <!--END_SECTION:waka-->
 
 
