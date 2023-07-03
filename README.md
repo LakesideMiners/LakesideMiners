@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **This Week I Spent My Time On** 
 
@@ -40,13 +40,15 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.0%
+Vue.js                   11 mins             ███████████████████░░░░░░   78.31% 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.69%
 
 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  14 mins             █████████████████████████   100.0%
 
 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.0%
+PiShockWeb               11 mins             ███████████████████░░░░░░   78.31% 
+Unknown Project          3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.69%
 
 ```
 
@@ -63,7 +65,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2023 18:34:24 UTC
+ Last Updated on 03/07/2023 18:35:56 UTC
 <!--END_SECTION:waka-->
 
 
