@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **This Week I Spent My Time On** 
 
@@ -40,13 +40,13 @@
 ⌚︎ Time Zone: America/New_York
 
 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.0%
 
 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 Projects: 
-No Activity Tracked This Week
+fzCrack-main             0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -63,7 +63,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2023 18:32:38 UTC
+ Last Updated on 29/08/2023 18:32:57 UTC
 <!--END_SECTION:waka-->
 
 
